@@ -1,0 +1,1 @@
+# Driver for the LAN8742A included in all STM Nucleo boards
